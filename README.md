@@ -1,6 +1,6 @@
 # django_desafio
 
-CRUD pessoas com Django
+CRUD de pessoas com Django
 
 GET - LISTAR PESSOAS
 http://localhost:8000/api/pessoas/
